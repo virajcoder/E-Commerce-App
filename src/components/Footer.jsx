@@ -9,7 +9,7 @@ const Footer = () => {
             <p className="mb-3 mb-md-0">Made with ❤️ by {" "}
               <a  href="#" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Viraj Singh</a>
             </p>
-            <a className="text-dark fs-4" href="https://github.com/ssahibsingh" target="_blank" rel="noreferrer">
+            <a className="text-dark fs-4" href="https://github.com/virajcoder/React_E-Commerce-main" target="_blank" rel="noreferrer">
               <i className="fa fa-github"></i>
             </a>
           </div>
