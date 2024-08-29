@@ -269,7 +269,7 @@ const Checkout = () => {
 
                     <button
                       className="w-100 btn btn-primary "
-                      type="submit" disabled
+                      type="submit" 
                     >
                       Continue to checkout
                     </button>
